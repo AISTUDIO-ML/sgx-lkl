@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "timonwong.shellcheck"
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
     ]
 }

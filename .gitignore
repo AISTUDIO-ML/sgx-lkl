@@ -32,5 +32,9 @@ user/stubs.o
 *.docker_entrypoint
 .gdb_history
 
-.vscode/*
-!.vscode/extensions.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
